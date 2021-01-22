@@ -4,14 +4,24 @@
 See https://tokenlists.org/.
 
 # Add token in Token List 
-## Clone repo  
-https://github.com/plasmadlt/token-list
+## 1. Press on Fork in the top right corner, wait for process to complete.
 
-## Add your token logo in 
+```
+git clone https://github.com/plasmadlt/token-list
+```
+## 2. Add your token logo in  Assets
+
+```
 https://github.com/plasmadlt/token-list/tree/master/assets 
+```
 
-## Add your token in 
-https://github.com/plasmadlt/token-list/blob/master/swap.tokenlist.json 
+### Image Requirements
+File extension: png. Uppercase PNG is considered invalid.
+File name：<contract_adress>.png, all lowercase.
+Dimension: 256 x 256 pixels or 512 x 512 pixels.
+Background: preferably transparent (should fit dark mode as well; deny logos need light border/background).
+File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-drop online service tinypng.
+## 3. Add your token in swap.tokenlist.json
 
 ```
 {
@@ -24,4 +34,4 @@ https://github.com/plasmadlt/token-list/blob/master/swap.tokenlist.json
       },
 ```
 
-
+## 4. Make a new PR (pull request)

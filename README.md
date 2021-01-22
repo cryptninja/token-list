@@ -1,4 +1,4 @@
-# Swap Token List
+# Plasma.Finance Token List
  https://raw.githubusercontent.com/cryptninja/token-list/master/swap.tokenlist.json
 
 See https://tokenlists.org/.

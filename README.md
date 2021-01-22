@@ -1,5 +1,5 @@
 # Plasma.Finance Token List
- https://raw.githubusercontent.com/cryptninja/token-list/master/swap.tokenlist.json
+ https://raw.githubusercontent.com/plasmadlt/token-list/master/swap.tokenlist.json
 
 See https://tokenlists.org/.
 
@@ -9,7 +9,7 @@ See https://tokenlists.org/.
 ```
 git clone https://github.com/plasmadlt/token-list
 ```
-## 2. Add your token logo in  Assets
+## 2. Add your token image in Assets
 
 ```
 https://github.com/plasmadlt/token-list/tree/master/assets 
@@ -21,7 +21,7 @@ File name：<contract_address>.png, all lowercase.
 Dimension: 256 x 256 pixels or 512 x 512 pixels.
 Background: preferably transparent (should fit dark mode as well; deny logos need light border/background).
 File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-drop online service tinypng.
-## 3. Add your token in swap.tokenlist.json
+## 3. Add your token data in swap.tokenlist.json
 
 Address contract must be ***checksummed***
 

@@ -4383,33 +4383,33 @@
       {
          "address": "0x560a20eddeddf84217221aef0d5ca7d7ae7ae798",
          "chainId": 1,
-         "symbol": "PBK",
          "name": "PBK",
+         "symbol": "PBK",
          "decimals": 2,
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x560a20eddeddf84217221aef0d5ca7d7ae7ae798.png"
        },
        {
+         "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B", 
+         "chainId": 1,
          "name": "crvBUSD",
-         "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
          "symbol": "crvBUSD",
          "decimals": 18,
-         "chainId": 1,
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B.png"
        },
        {
+         "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3", 
+         "chainId": 1,
          "name": "crvBTC",
-         "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
          "symbol": "crvBTC",
          "decimals": 18,
-         "chainId": 1,
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3.png"
        },
        {
-         "name": "y3Crv",
          "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+         "chainId": 1,
+         "name": "y3Crv",
          "symbol": "y3Crv",
          "decimals": 18,
-         "chainId": 1,
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490.png"
        },
        {

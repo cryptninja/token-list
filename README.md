@@ -17,11 +17,13 @@ https://github.com/plasmadlt/token-list/tree/master/assets
 
 ### Image Requirements
 File extension: png. Uppercase PNG is considered invalid.
-File name：<contract_adress>.png, all lowercase.
+File name：<contract_address>.png, all lowercase.
 Dimension: 256 x 256 pixels or 512 x 512 pixels.
 Background: preferably transparent (should fit dark mode as well; deny logos need light border/background).
 File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-drop online service tinypng.
 ## 3. Add your token in swap.tokenlist.json
+
+Address contract must be ***checksummed***
 
 ```
 {
@@ -35,3 +37,9 @@ File size: maximum 100kB.  Tip: optimize image size, e.g. using simple drag-and-
 ```
 
 ## 4. Make a new PR (pull request)
+
+```
+git add -A
+git commit -m “Add <token_name>”
+git push origin <branch_name>
+```

@@ -4379,7 +4379,47 @@
          "symbol": "FERA",
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x539f3615c1dbafa0d008d87504667458acbd16fa.png"
-      }
+      },
+      {
+         "address": "0x560a20eddeddf84217221aef0d5ca7d7ae7ae798",
+         "chainId": 1,
+         "symbol": "PBK",
+         "name": "PBK",
+         "decimals": 2,
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x560a20eddeddf84217221aef0d5ca7d7ae7ae798.png"
+       },
+       {
+         "name": "crvBUSD",
+         "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
+         "symbol": "crvBUSD",
+         "decimals": 18,
+         "chainId": 1,
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B.png"
+       },
+       {
+         "name": "crvBTC",
+         "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+         "symbol": "crvBTC",
+         "decimals": 18,
+         "chainId": 1,
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3.png"
+       },
+       {
+         "name": "y3Crv",
+         "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+         "symbol": "y3Crv",
+         "decimals": 18,
+         "chainId": 1,
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490.png"
+       },
+       {
+         "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+         "chainId": 1,
+         "name": "SushiBar",
+         "symbol": "xSUSHI",
+         "decimals": 18,
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272.png"
+       },
    ],
    "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
 }

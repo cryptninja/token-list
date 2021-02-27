@@ -47,7 +47,6 @@
          "name": "LiquidityDividendsProtocol",
          "symbol": "LID",
          "decimals": 18,
-         "tags": ["defi"]
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x0417912b3a7af768051765040a55bb0925d4ddcf.png"
       },
       {

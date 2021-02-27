@@ -19,7 +19,10 @@
          "symbol": "PPAY",
          "decimals": 18,
          "id_coingecko": plasma-finance,
-         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
+         "tags": [
+                "DeFi"
+            ]
       },
       {
          "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",

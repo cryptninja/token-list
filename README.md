@@ -11,12 +11,12 @@ See https://tokenlists.org/.
 ## 1. Press on Fork in the top right corner, wait for process to complete.
 
 ```
-git clone https://github.com/plasmadlt/token-list
+git clone https://github.com/cryptninja/token-list
 ```
 ## 2. Add your token image in Assets
 
 ```
-https://github.com/plasmadlt/token-list/tree/master/assets 
+https://github.com/cryptninja/token-list/tree/master/assets 
 ```
 
 ### Image Requirements
@@ -36,7 +36,7 @@ Address contract must be ***checksummed***
          "name": "Plasma",
          "symbol": "PPAY",
          "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
+         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png"
       },
 ```
 

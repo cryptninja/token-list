@@ -2,6 +2,9 @@
 
  https://raw.githubusercontent.com/cryptninja/token-list/master/tokenpage.tokenlist.json
 
+
+https://raw.githubusercontent.com/cryptninja/token-list/master/swap.tokenlist.json
+
 See https://tokenlists.org/.
 
 # Add token in Token List 

@@ -30,7 +30,7 @@
       },
       "alliance": {
          "name": "Plasma Alliance",
-         "description": "Plasma Alliance of ambitious projects and game-changing DeFi protocols"
+         "description": "Plasma Alliance of ambitious projects and game changing DeFi protocols"
       },
       "swap": {
          "name": "Swap Tokens",
@@ -1079,7 +1079,7 @@
       {
          "address": "0x625aE63000f46200499120B906716420bd059240",
          "chainId": 1,
-         "name": "Aave Interest bearing SUSD",
+         "name": "Aave Interest SUSD",
          "symbol": "aSUSDv1",
          "tags": [],
          "decimals": 18,
@@ -1189,7 +1189,7 @@
       {
          "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
          "chainId": 1,
-         "name": "Aave Interest bearing USDT",
+         "name": "Aave Interest USDT",
          "symbol": "aUSDTv1",
          "tags": [],
          "decimals": 6,
@@ -1571,7 +1571,7 @@
       {
          "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
          "chainId": 1,
-         "name": "Aave Interest bearing USDC",
+         "name": "Aave Interest USDC",
          "symbol": "aUSDCv1",
          "tags": [],
          "decimals": 6,
@@ -1696,7 +1696,7 @@
       {
          "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
          "chainId": 1,
-         "name": "Aave Interest bearing LINK",
+         "name": "Aave Interest LINK",
          "symbol": "aLINKv1",
          "tags": [],
          "decimals": 18,
@@ -2545,7 +2545,7 @@
       {
          "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
          "chainId": 1,
-         "name": "Aave Interest bearing DAI",
+         "name": "Aave Interest DAI",
          "symbol": "aDAIv1",
          "tags": [],
          "decimals": 18,
@@ -3000,7 +3000,7 @@
       {
          "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
          "chainId": 1,
-         "name": "Aave Interest bearing ETH",
+         "name": "Aave Interest ETH",
          "symbol": "aETHv1",
          "tags": [],
          "decimals": 18,
@@ -3009,7 +3009,7 @@
       {
          "address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
          "chainId": 1,
-         "name": "Aave Interest bearing BAT",
+         "name": "Aave Interest BAT",
          "symbol": "aBATv1",
          "tags": [],
          "decimals": 18,
@@ -3018,7 +3018,7 @@
       {
          "address": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
          "chainId": 1,
-         "name": "Aave Interest bearing KNC",
+         "name": "Aave Interest KNC",
          "symbol": "aKNCv1",
          "tags": [],
          "decimals": 18,
@@ -3027,7 +3027,7 @@
       {
          "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
          "chainId": 1,
-         "name": "Aave Interest bearing LEND",
+         "name": "Aave Interest LEND",
          "symbol": "aLENDv1",
          "tags": [],
          "decimals": 18,
@@ -3036,7 +3036,7 @@
       {
          "address": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
          "chainId": 1,
-         "name": "Aave Interest bearing MANA",
+         "name": "Aave Interest MANA",
          "symbol": "aMANAv1",
          "tags": [],
          "decimals": 18,
@@ -3045,7 +3045,7 @@
       {
          "address": "0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
          "chainId": 1,
-         "name": "Aave Interest bearing MKR",
+         "name": "Aave Interest MKR",
          "symbol": "aMKRv1",
          "tags": [],
          "decimals": 18,
@@ -3054,7 +3054,7 @@
       {
          "address": "0x71010A9D003445aC60C4e6A7017c1E89A477B438",
          "chainId": 1,
-         "name": "AaveInterestbearingREP",
+         "name": "Aave Interest REP",
          "symbol": "aREPv1",
          "tags": [],
          "decimals": 18,
@@ -3063,7 +3063,7 @@
       {
          "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
          "chainId": 1,
-         "name": "Aave Interest bearing SNX",
+         "name": "Aave Interest SNX",
          "symbol": "aSNXv1",
          "tags": [],
          "decimals": 18,
@@ -3072,7 +3072,7 @@
       {
          "address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
          "chainId": 1,
-         "name": "Aave Interest bearing WBTC",
+         "name": "Aave Interest WBTC",
          "symbol": "aWBTCv1",
          "tags": [],
          "decimals": 8,
@@ -3081,7 +3081,7 @@
       {
          "address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
          "chainId": 1,
-         "name": "Aave Interest bearing ZRX",
+         "name": "Aave Interest ZRX",
          "symbol": "aZRXv1",
          "tags": [],
          "decimals": 18,
@@ -3236,7 +3236,7 @@
       {
          "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
          "chainId": 1,
-         "name": "Aave Interest bearing BUSD",
+         "name": "Aave Interest BUSD",
          "symbol": "aBUSDv1",
          "tags": [],
          "decimals": 18,
@@ -3400,8 +3400,8 @@
       {
          "address": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
          "chainId": 1,
-         "name": "Curve yDAI/yUSDC/yUSDT/yTUSD",
-         "symbol": "yDAI+yUSDC+yUSDT+yTUSD",
+         "name": "LP-yCurve",
+         "symbol": "LP-yCurve",
          "tags": [
             "pools"
          ],
@@ -3908,8 +3908,8 @@
       {
          "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
          "chainId": 1,
-         "name": "Yfi Curve yDAI/yUSDC/yUSDT/yTUSD",
-         "symbol": "yyDAI+yUSDC+yUSDT+yTUSD",
+         "name": "yUSD (YVAULT-YCURVE)",
+         "symbol": "yUSD (YVAULT-YCURVE)",
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x5dbcf33d8c2e976c6b560249878e6f1491bca25c.png"
@@ -4869,7 +4869,7 @@
       {
          "address": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
          "chainId": 1,
-         "name": "Aave Interest bearing REN",
+         "name": "Aave Interest REN",
          "symbol": "aRENv1",
          "tags": [],
          "decimals": 18,
@@ -5487,8 +5487,8 @@
       {
          "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
          "chainId": 1,
-         "name": "Curve yDAI/yUSDC/yUSDT/yBUSD",
-         "symbol": "yDAI+yUSDC+yUSDT+yBUSD",
+         "name": "Curve.fi yBUSD",
+         "symbol": "Curve.fi yBUSD",
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B.png"
@@ -5496,14 +5496,14 @@
       {
          "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
          "chainId": 1,
-         "name": "Curve renBTC/wBTC/sBTC",
+         "name": "crvRenWSBTC",
          "symbol": "crvRenWSBTC",
          "tags": [],
          "decimals": 18,
          "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3.png"
       },
       {
-         "address": "c",
+         "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
          "chainId": 1,
          "name": "Curve DAI/USDC/USDT",
          "symbol": "3Crv",
@@ -5514,7 +5514,7 @@
       {
          "address": "0xC25a3A3b969415c80451098fa907EC722572917F",
          "chainId": 1,
-         "name": "Curve DAI/USDC/USDT/sUSD",
+         "name": "crvPlain3andSUSD",
          "symbol": "crvPlain3andSUSD",
          "tags": [],
          "decimals": 18,

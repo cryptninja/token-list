@@ -5269,17 +5269,6 @@
          "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0x5a98fcbea516cf06857215779fd812ca3bef1b32.png"
       },
       {
-         "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
-         "chainId": 1,
-         "name": "Lido Staked Ether",
-         "symbol": "STETH",
-         "tags": [
-            "defi"
-         ],
-         "decimals": 18,
-         "logoURI": "https://raw.githubusercontent.com/cryptninja/token-list/master/assets/0xae7ab96520de3a18e5e111b5eaab095312d7fe84.png"
-      },
-      {
          "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
          "chainId": 1,
          "name": "Tornado Cash",
